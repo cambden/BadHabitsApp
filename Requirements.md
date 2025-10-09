@@ -1,4 +1,5 @@
-2.0 Requirements and User Stories
+<u>2.0 Requirements and User Stories<u>
+
 2.1 Required Functionality
 Suggested Word Count: 150-200 words
 Develop a comprehensive list that catalogs all of the functionalities needed to successfully develop the project. This section will serve as a critical component of the project’s scope, much like a contract with a client, outlining exactly what features the project will implement and which ones will be planned in the future. Ensure that the list encompasses your entire project. For example, include any front-end, back-end, or hardware components if required.
