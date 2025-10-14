@@ -1,4 +1,4 @@
-###<u>2.0 Requirements and User Stories<u>
+<u>2.0 Requirements and User Stories<u>
 
 2.1 Required Functionality
 Suggested Word Count: 150-200 words
