@@ -35,16 +35,17 @@ Suggested Word Count: 150-250 words
 List the non-functional requirements that will guide the project’s overall performance, security, and user experience. These requirements are essential to ensure that the project meets standards of quality, reliability, and sustainability. Create a section for each of the following relating to your project:
 
 2.4.1 Security
-Define the security measures needed to protect data, such as encryption, secure authentication, and compliance with regulations like GDPR or HIPAA.
+    We plan to inplement a security system with multiple factors like authentification to ensure only the allowed users are allowed to see the what the habits the user has entered the progress made and other users who are on the contact/authorized personel list to edit or view data. Some methods of security we plan to use includes two factor authentification for every login, as well as a password protected section to view very personal information. For GDPR and HIPAA, HIPAA wont apply due to the lack of medical information being used within the application and it all being purely interactable, but GDPR will play into effect for our oversea users as we will only store data provided to us and this data will be stored and only accessible for the users and noone else ensuring limited access to data and an increase to overall privacy.
 
 2.4.2 Performance
-Specify any performance benchmarks, such as expected response times.
+    We want to have the application work almost autonomously where it can be given information do research through our databases and then reply to the user with the information needed to help with any habit the person wants to break or make. We plan to first ensure the response capabilities are met like being able to hold a conversation with the user and to respond with reliable information and sourced data. We want this to be done in a timely manner so the user does not have to backtrack on their habits and possibly do something they do not want to. For the data storing section of our application we want the interface to ask the user to enter their habits, what they plan to improve or get rid of and also what plans they have for them which after this interaction is completed we should instantly return information to the user about what they said they wanted to do. Once this step is completed we will work on the interaction with our AI service agent to help focus in on the goals the user has and what plans to follow to achieve their goals.
 
 2.4.3 Availability
 Outline the expected availability metrics, including uptime requirements, and redundancy plans.
+    
 
 2.4.4 Reliability
-Error handling will be done through 'try' and 'catch' ensuring proper handling is done. There should be no need for backup andything other than servers.
+    The plan for reliability is the appication should be running perfectly at all times and no real fatal error should occur, This is purely input based information and the only errors would be made by the user inputing the incorrect information or choosing a new plan to change their habits that wasnt provided by the application. The backup protocols will go into effect in a timely matter within a certain period which will ensure 
 
 2.4.5 Ethics and Sustainability
-There will be no bias in any of the algorithms we use; This app will be strictly dedicated to help people. Data will be kept private at all times since there is no need, we will only ask for feedback on the app itself.
+Address ethical concerns like data privacy, user consent, and bias in algorithms. Include any sustainability considerations.
