@@ -5,7 +5,8 @@
 This app will require docker, kubernetes, tsx, REACT, python, and a bunch of html/mobile programming. Our app will be designed for the user to type in a subject they want to track and the app will send reccomendations on how to quit with products that you can buy. You will get daily motivational quotes as your progress increases, along with this you will also obtain a streak after a certain amount of days. There will be a frontend and backend connected via API's that will have a stable extremely fast connection.
 
 -----------------------------------------------------------------------------------------------------------
-
+1: Streak System <br>
+2: 
 
 2.2 User Stories
 -----------------------------------------------------------------------------------------------------------
