@@ -9,17 +9,29 @@ This app will require docker, kubernetes, tsx, REACT, python, and a bunch of htm
 2: Shopping Cart <br>
 3: Motivational Quote Notification <br>
 4: Integration with Other Apps <br>
-5: Socail Support System <br>
+5: Social Support System <br>
 
 2.2 User Stories
 -----------------------------------------------------------------------------------------------------------
 Suggested Word Count: 200-300 words
 Translate the required functionality into user stories that capture the end-user’s perspective. These stories should be concise, user-centered descriptions of the functionality, formatted in a way that can be easily validated and tested.
 
+As a registered user, I want to quit an addiction using TheHabitTracker so that I can live an improved and healthier life. When I feel like relapsing on an addiction I am trying to quit, I can click a panic button, which can call a trusted person I know, or receive an AI-generated Motivational text that keeps me from relapsing. As a registered user, I will have access to how long I have kept my good habits, so that I can use it as motivation to not fall back into bad habits. When I add a bad habit I want to quit, like quitting nicotine, TheHabitTracker will give me a questionnaire on what form of nicotine I've been using, how long, and why. Then, it will use AI queries to give me better alternatives to the products, and tips to help me quit depending on how long I have been using them and why I've been using that product. As a registered user, I want to have videos of other people who have maintained similar habits to me, so that I understand that I am not alone in this struggle. As a registered user, I want to have a reward of some kind when I've successfully maintained a good habit for a certain time limit so that there is more of a reward to maintaining good habits.
+
 Create a list of 10-12 user stories using the following guidelines:
 Use a template for story structure:
-As a [user role], I want|need|have to [desired action] so that [reason or benefit].
-When [situation], I want|need|have to [motivation] so that [outcome].
+- As a registered user, I want to quit an addiction using TheHabitTracker so that I can live an improved and healthier life.
+- As a registered user, I will have access to how long I have kept my good habits, so that I can use it as motivation to not fall back into bad habits.
+- When I feel like relapsing on an addiction I am trying to quit, I can click a panic button, which can call a trusted person I know, or receive an AI-generated Motivational text that keeps me from relapsing.
+- When I add a bad habit I want to quit, like quitting nicotine, TheHabitTracker will give me a questionnaire on what form of nicotine I've been using, how long, and why. Then, it will use AI queries to give me better alternatives to the products, and tips to help me quit depending on how long I have been using them and why I've been using that product.
+- As a registered user, I want to have videos of other people who have maintained similar habits to me, so that I understand that I am not alone in this struggle
+- As a registered user, I want to have a reward of some kind when I've successfully maintained a good habit for a certain time limit so that there is more of a reward to maintaining good habits.
+- As a registered user, I need an easy-to-use, navigable user interface, so that the app is user-friendly.
+- When I need help with a feature on the app, there will be a help feature at the bottom of the app to help me find what I am looking for so that I can use the app to its full potential.
+- As a new user, I want to sign up using my email or social login so that I can quickly start using the app.
+- As a user, I want to set a frequency (daily, weekly, custom) for each habit so it fits my goals.
+- As a user, I want to add reminders or notifications so I don’t forget to complete my habits.
+- As a user, I want to group habits into categories (e.g., health, productivity) so I can stay organized.
 
 Attempt to break down user stories related to your "Must Have" required functionality as much as possible. If a functionality is broad, you can break it down into epics, but try to keep the number of epics to a minimum.
 
