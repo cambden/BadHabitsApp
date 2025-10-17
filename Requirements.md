@@ -1,8 +1,7 @@
 <u>2.0 Requirements and User Stories<u>
 
 2.1 Required Functionality
-    This app will require docker, kubernetes, tsx, REACT, python, and a bunch of html/mobile programming. Our app will be designed for the user to type in a subject they want to track and the app will send reccomendations on how to quit with Suggested Word Count: 150-200 words
-Develop a comprehensive list that catalogs all of the functionalities needed to successfully develop the project. This section will serve as a critical component of the project’s scope, much like a contract with a client, outlining exactly what features the project will implement and which ones will be planned in the future. Ensure that the list encompasses your entire project. For example, include any front-end, back-end, or hardware components if required.
+    This app will require docker, kubernetes, tsx, REACT, python, and a bunch of html/mobile programming. Our app will be designed for the user to type in a subject they want to track and the app will send reccomendations on how to quit with products that you can buy. You will get daily motivational quotes as your progress increases, along with this you will also obtain a streak after a certain amount of days. There will be a frontend and backend connected via API's that will have a stable extremely fast connection.
 
 Create a list of 5-10 functionalities and assign a category to each one based on the following:
 Must Have: These are the features mandatory to meet the project needs.
