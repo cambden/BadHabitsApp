@@ -29,6 +29,11 @@ Each story should include clear and measurable acceptance criteria that define w
 Suggested Word Count: 150-200 words
 Provide 2-3 user personas or roles using the following format:
 
+
+
+![people-headshot-nick-maslow-f21ef38676504bc89a091ec9a5c95e4b](https://github.com/user-attachments/assets/8ee0fc81-a06f-4a8f-a900-69cf38f14f16)
+
+
 Name and photo.
 Demographic information: age, education, occupation, short background.
 Psychographic information: goals or needs (your project fulfills), frustrations (your project addresses).
