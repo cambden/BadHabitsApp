@@ -31,18 +31,22 @@ Suggested Word Count: 150-200 words
 Provide 2-3 user personas or roles using the following format:
 
 
-Alex
+Alex, 36, bachelor’s in chemistry, chemical engineer, born and raised in Massachusetts, spent 4 years at MIT graduated with a 3.8 GPA, 10 years of experience with chemical engineering, multiple certifications like the following PE, ASQ, CCE, EHS. Need an outlet to stop me from using nicotine products to deal with stress during and after work hours. Nicotine has taken time from my personal life through distractions with addiction. 
+1.
 ![people-headshot-nick-maslow-f21ef38676504bc89a091ec9a5c95e4b](https://github.com/user-attachments/assets/8ee0fc81-a06f-4a8f-a900-69cf38f14f16)
 
 
 
-Ronald
+Ronald, 55, master’s in business, Finance manager for USAA bank position at Richmond VA, lived in Fredericksburg until 1994, Studied at the University of Richmond. Been working At USAA for the past 12 years. I struggle with overeating, and it has affected my work ethic because I always feel unmotivated due to my weight.
+2.
 <img width="1024" height="879" alt="image" src="https://github.com/user-attachments/assets/d3a5269d-665b-4f60-8b68-57063b7f49fe" />
 
 
 
-Tiffany
+Tiffany, 42, bachelor’s in biology, CVS pharmacy Technician, worked at CVS for the past 7 years, I have constant memory and work-related issues due to my lack of sleep, I cant get tired enough during the day and lay awake through most nights.
+3.
 ![people-headshot-lauren-lieberman-830b33fdd4cc4c4bbc6e71ebd84dd633](https://github.com/user-attachments/assets/519bd566-a5cc-41fb-9425-d70d85ad54c6)
+
 
 
 Name and photo.
