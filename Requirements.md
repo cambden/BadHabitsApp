@@ -49,12 +49,7 @@ Tiffany, 42, bachelor’s in biology, CVS pharmacy Technician, worked at CVS for
 
 
 
-Name and photo.
-Demographic information: age, education, occupation, short background.
-Psychographic information: goals or needs (your project fulfills), frustrations (your project addresses).
-2.4 Non-functional Requirements
-Suggested Word Count: 150-250 words
-List the non-functional requirements that will guide the project’s overall performance, security, and user experience. These requirements are essential to ensure that the project meets standards of quality, reliability, and sustainability. Create a section for each of the following relating to your project:
+
 
 2.4.1 Security
 -----------------------------------------------------------------------------------------------------------
