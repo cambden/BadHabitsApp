@@ -5,11 +5,7 @@
 This app will require docker, kubernetes, tsx, REACT, python, and a bunch of html/mobile programming. Our app will be designed for the user to type in a subject they want to track and the app will send reccomendations on how to quit with products that you can buy. You will get daily motivational quotes as your progress increases, along with this you will also obtain a streak after a certain amount of days. There will be a frontend and backend connected via API's that will have a stable extremely fast connection.
 
 -----------------------------------------------------------------------------------------------------------
-Create a list of 5-10 functionalities and assign a category to each one based on the following:
-Must Have: These are the features mandatory to meet the project needs.
-Should Have: These are the features that will add significant value to the project but are not vital.
-Could Have: Additional features that elevate the project to a professional level but have little to no impact if left out.
-Will Not Have: Features you have considered but are not a priority at this time.
+
 
 2.2 User Stories
 -----------------------------------------------------------------------------------------------------------
