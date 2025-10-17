@@ -1,7 +1,7 @@
 <u>2.0 Requirements and User Stories<u>
 
-2.1 Required Functionality
-    This app will require docker, kubernetes, tsx, REACT, python, and a bunch of html/mobile programming. Our app will be designed for the user to type in a subject they want to track and the app will send reccomendations on how to quit with products that you can buy. You will get daily motivational quotes as your progress increases, along with this you will also obtain a streak after a certain amount of days. There will be a frontend and backend connected via API's that will have a stable extremely fast connection.
+2.1 Required Functionality - 
+###This app will require docker, kubernetes, tsx, REACT, python, and a bunch of html/mobile programming. Our app will be designed for the user to type in a subject they want to track and the app will send reccomendations on how to quit with products that you can buy. You will get daily motivational quotes as your progress increases, along with this you will also obtain a streak after a certain amount of days. There will be a frontend and backend connected via API's that will have a stable extremely fast connection.
 
 Create a list of 5-10 functionalities and assign a category to each one based on the following:
 Must Have: These are the features mandatory to meet the project needs.
