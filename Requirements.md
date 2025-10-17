@@ -64,7 +64,9 @@ We want to have the application work almost autonomously where it can be given i
 -----------------------------------------------------------------------------------------------------------
 The app will be available all hours of the day; The only hours that the app will be down for will be for updates which will go out when their is the least amount of activity.    
 
-2.4.4 Reliability - The plan for reliability is the appication should be running perfectly at all times and no real fatal error should occur, This is purely input based information and the only errors would be made by the user inputing the incorrect information or choosing a new plan to change their habits that wasnt provided by the application. The backup protocols will go into effect in a timely matter within a certain period which will ensure 
+2.4.4 Reliability
+-----------------------------------------------------------------------------------------------------------
+The plan for reliability is the appication should be running perfectly at all times and no real fatal error should occur, This is purely input based information and the only errors would be made by the user inputing the incorrect information or choosing a new plan to change their habits that wasnt provided by the application. The backup protocols will go into effect in a timely matter within a certain period which will ensure 
 
 2.4.5 Ethics and Sustainability
     There will be no bias in any of the algorithms considering this app is strictly to help people. User consent will not be required since it is completely optional for the user to submit their infor for help or not. There should be no data really needing to be kept, this app should be sufficient just via user input.
