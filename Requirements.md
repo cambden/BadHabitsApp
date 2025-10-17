@@ -1,9 +1,7 @@
 <u>2.0 Requirements and User Stories<u>
 
 2.1 Required Functionality
-    This app will require docker, kubernetes, tsx, REACT, python, and a bunch of html/mobile programming. Our app will be designed for the user to type in a subject they want to track and the app will send reccomendations on how to quit with 
-<img width="1024" height="879" alt="image" src="https://github.com/user-attachments/assets/d3a5269d-665b-4f60-8b68-57063b7f49fe" />
-Suggested Word Count: 150-200 words
+    This app will require docker, kubernetes, tsx, REACT, python, and a bunch of html/mobile programming. Our app will be designed for the user to type in a subject they want to track and the app will send reccomendations on how to quit with Suggested Word Count: 150-200 words
 Develop a comprehensive list that catalogs all of the functionalities needed to successfully develop the project. This section will serve as a critical component of the project’s scope, much like a contract with a client, outlining exactly what features the project will implement and which ones will be planned in the future. Ensure that the list encompasses your entire project. For example, include any front-end, back-end, or hardware components if required.
 
 Create a list of 5-10 functionalities and assign a category to each one based on the following:
@@ -33,6 +31,10 @@ Provide 2-3 user personas or roles using the following format:
 
 ![people-headshot-nick-maslow-f21ef38676504bc89a091ec9a5c95e4b](https://github.com/user-attachments/assets/8ee0fc81-a06f-4a8f-a900-69cf38f14f16)
 
+
+
+
+<img width="1024" height="879" alt="image" src="https://github.com/user-attachments/assets/d3a5269d-665b-4f60-8b68-57063b7f49fe" />
 
 Name and photo.
 Demographic information: age, education, occupation, short background.
