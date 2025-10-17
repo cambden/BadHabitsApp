@@ -41,11 +41,10 @@ List the non-functional requirements that will guide the project’s overall per
     We want to have the application work almost autonomously where it can be given information do research through our databases and then reply to the user with the information needed to help with any habit the person wants to break or make. We plan to first ensure the response capabilities are met like being able to hold a conversation with the user and to respond with reliable information and sourced data. We want this to be done in a timely manner so the user does not have to backtrack on their habits and possibly do something they do not want to. For the data storing section of our application we want the interface to ask the user to enter their habits, what they plan to improve or get rid of and also what plans they have for them which after this interaction is completed we should instantly return information to the user about what they said they wanted to do. Once this step is completed we will work on the interaction with our AI service agent to help focus in on the goals the user has and what plans to follow to achieve their goals.
 
 2.4.3 Availability
-Outline the expected availability metrics, including uptime requirements, and redundancy plans.
-    
+    The app will be available all hours of the day; The only hours that the app will be down for will be for updates which will go out when their is the least amount of activity.    
 
 2.4.4 Reliability
     The plan for reliability is the appication should be running perfectly at all times and no real fatal error should occur, This is purely input based information and the only errors would be made by the user inputing the incorrect information or choosing a new plan to change their habits that wasnt provided by the application. The backup protocols will go into effect in a timely matter within a certain period which will ensure 
 
 2.4.5 Ethics and Sustainability
-Address ethical concerns like data privacy, user consent, and bias in algorithms. Include any sustainability considerations.
+    There will be no bias in any of the algorithms considering this app is strictly to help people. User consent will not be required since it is completely optional for the user to submit their infor for help or not. There should be no data really needing to be kept, this app should be sufficient just via user input.
