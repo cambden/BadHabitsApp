@@ -27,13 +27,19 @@ Suggested Word Count: 150-200 words
 Provide 2-3 user personas or roles using the following format:
 
 
-
+Alex
 ![people-headshot-nick-maslow-f21ef38676504bc89a091ec9a5c95e4b](https://github.com/user-attachments/assets/8ee0fc81-a06f-4a8f-a900-69cf38f14f16)
 
 
 
-
+Ronald
 <img width="1024" height="879" alt="image" src="https://github.com/user-attachments/assets/d3a5269d-665b-4f60-8b68-57063b7f49fe" />
+
+
+
+Tiffany
+![people-headshot-lauren-lieberman-830b33fdd4cc4c4bbc6e71ebd84dd633](https://github.com/user-attachments/assets/519bd566-a5cc-41fb-9425-d70d85ad54c6)
+
 
 Name and photo.
 Demographic information: age, education, occupation, short background.
