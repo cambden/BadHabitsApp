@@ -44,7 +44,7 @@ Specify any performance benchmarks, such as expected response times.
 Outline the expected availability metrics, including uptime requirements, and redundancy plans.
 
 2.4.4 Reliability
-Describe the reliability goals, including error handling strategies, data integrity measures, and backup protocols.
+Error handling will be done through 'try' and 'catch' ensuring proper handling is done. There should be no need for backup andything other than servers.
 
 2.4.5 Ethics and Sustainability
-Address ethical concerns like data privacy, user consent, and bias in algorithms. Include any sustainability considerations.
+There will be no bias in any of the algorithms we use; This app will be strictly dedicated to help people. Data will be kept private at all times since there is no need, we will only ask for feedback on the app itself.
