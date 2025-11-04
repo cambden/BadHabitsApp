@@ -1,4 +1,5 @@
-3.0 Technical Specifications and Design
+<u>3.0 Technical Specifications and Design</u>
+
 3.1 Design
 Suggested Word Count: 500-800 words
 This section should provide a high-level explanation of the technical decisions made in your project, focusing on the "how" rather than the "why." Start by outlining your core design principles and explaining how your technology choices align with your project goals.
