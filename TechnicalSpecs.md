@@ -4,6 +4,7 @@
 
 Our main core design prinicple will be:
 <br>
+<br>
   Balance: Using balance we will be focusing on making the app visually apealing with everything perfectly spaced out and align. This will give the user mushc more enjoyment
            the app rather than it just being an 'eye-sore'. With balance we also allow the user to navigate much easier allowing them to switch between their differnt 'tabs' and 
            'redirection' screens. With balance we can bring in the other subcategories such as allignment and proportion. These will mainly be done in the css style and if                  anything is directly needed only once for that single line then it will be 'in-line' styling
