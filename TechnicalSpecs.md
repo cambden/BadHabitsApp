@@ -1,8 +1,13 @@
 <u>3.0 Technical Specifications and Design</u>
 
 3.1 Design
-Suggested Word Count: 500-800 words
-This section should provide a high-level explanation of the technical decisions made in your project, focusing on the "how" rather than the "why." Start by outlining your core design principles and explaining how your technology choices align with your project goals.
+
+Our main core design prinicple will be:
+  Balance: Using balance we will be focusing on making the app visually apealing with everything perfectly spaced out and align. This will give the user mushc more enjoyment
+           the app rather than it just being an 'eye-sore'. With balance we also allow the user to navigate much easier allowing them to switch between their differnt 'tabs' and 
+           'redirection' screens. With balance we can bring in the other subcategories such as allignment and proportion. These will mainly be done in the css style and if                  anything is directly needed only once for that single line then it will be 'in-line' styling
+           
+  - This core principle will as mentioned before allow the user to naigate the app much easier. This leads to a greater rating and more time spent on the app which can then lead     to sponors and so on. If sponsors are able to be obtained this will give us the oppurtunity to make drastic changes to the app in security enhancements and better UI             upgrades.
 
 Be sure to address how these decisions help meet your non-functional requirements, such as security, reliability, or performance. Include details like whether your project is a single-page application, desktop app, or mobile app, and explain the rationale for that choice.
 
