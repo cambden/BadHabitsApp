@@ -11,9 +11,9 @@ Our main core design prinicple will be:
            
   - This core principle will as mentioned before allow the user to naigate the app much easier. This leads to a greater rating and more time spent on the app which can then lead     to sponors and so on. If sponsors are able to be obtained this will give us the oppurtunity to make drastic changes to the app in security enhancements and better UI             upgrades.
 
-Be sure to address how these decisions help meet your non-functional requirements, such as security, reliability, or performance. Include details like whether your project is a single-page application, desktop app, or mobile app, and explain the rationale for that choice.
+  - Our project as mentioned above will be a mobile app. There are actually mobile programming applications that allow this to be done much easier than a normal vscode full-         stack applicaiton.
 
-Specify if a database is used, and if so, what type. If your project includes an API, describe the type (e.g., REST) and why it was selected. Also, discuss the frameworks you chose and the reasons behind these decisions. This section should be clear and concise, aimed at a low-technical audience to help them grasp your overall approach.
+  - For our framework we plan to use a mix of tsx/python giving us many customization options. For our database I believe we plan to use fastAPI since this is what me and cadet      Jeffers are used to using from our internships.
 
 Include a workflow diagram to visually summarize the design in a way that is accessible to a low-technical audience.
 
