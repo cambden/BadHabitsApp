@@ -42,3 +42,5 @@ Suggested Word Count: 100-150 words - mostly images
 Using a diagramming tool (either one reviewed in class or one of your choice), create a series of wireframes or prototypes that illustrate the flow of your project. Include detailed annotations within the images or use numbered references, with corresponding explanations provided in the document.
 
 For example, if there is an "add" button on a webpage, describe what the "add" action does and which component or requirement it is connected to. If your project requires an overall workflow explanation, start with a high-level diagram that outlines the approach before diving into the specifics.
+
+<img width="1068" height="713" alt="image" src="C:\Users\xodub\Downloads\TechSpecs.drawio"/>
