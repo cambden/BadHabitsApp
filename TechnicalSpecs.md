@@ -46,8 +46,7 @@ For example, if there is an "add" button on a webpage, describe what the "add" a
 3.3 Software Solution
 - Overall, the software solutions have been defined. In addition, the frontend and backend requirements are aligned. The AI services is a major software solution that our team has to conclude and finalize in terms of decision-making. Past that, the programming languages, user interface, and software features have been discussed and will soon be implimented. The minimum requirements for our software has been displayed in the image shown below. As seen, Fast API, AI services, and testing files will be implimented on the backend. Additionally, the User Interface, UI features, and all overall features will be dealt with on the front end. On the front end, the HTML forms will be implemented as well for website features and support.
 
-<img width="1068" height="713" alt="image" src="C:\Users\xodub\Downloads\TechSpecs.drawio"/>
-![TechSpecsImage]("C:\Users\xodub\Downloads\TechSpecs.drawio")
+<img width="1010" height="734" alt="image" src="https://github.com/user-attachments/assets/9519621a-bb39-4779-b8e6-dbce2a55e4da" />
 
 
 -  Fig 1.) Technical Specs with additional features.
