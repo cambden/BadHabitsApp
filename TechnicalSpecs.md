@@ -21,7 +21,7 @@ Include a workflow diagram to visually summarize the design in a way that is acc
 Suggested Word Count: 300-500 words
 This section should offer a detailed breakdown of the technical components in your project. Begin with a comprehensive component diagram that shows all the key components and their relationships. This diagram should be more detailed than the one in the Design section.
 
-<img width="55" height="50" alt="image" src="https://github.com/user-attachments/assets/7bee160b-21ef-4ffd-92f4-cdb1a5dd8912" />
+<img width="1068" height="713" alt="image" src="https://github.com/user-attachments/assets/6403910d-cf9d-4d7f-a0a1-d922105ef071" />
 
 
 Following the diagram, provide an in-depth explanation of each component in individual sections. Include details such as API endpoint names and their documentation (preferably in OpenAPI format), database schemas, and any necessary sequence or workflow diagrams for each component. If you are using a specific framework or service, explain how it is implemented and what is required for it to function. Additionally, if your project follows an architectural pattern, such as event-driven or microservice architecture, provide a thorough explanation of how it is applied and integrated into the project.
