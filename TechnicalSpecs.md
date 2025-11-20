@@ -1,5 +1,7 @@
 <u>3.0 Technical Specifications and Design</u>
 
+Platform: WebApp that will hopefully move to a mobile app
+
 3.1 Design
 
 Our main core design prinicple will be:
@@ -26,7 +28,7 @@ This section should offer a detailed breakdown of the technical components in yo
 
 Following the diagram, provide an in-depth explanation of each component in individual sections. Include details such as API endpoint names and their documentation (preferably in OpenAPI format), database schemas, and any necessary sequence or workflow diagrams for each component. If you are using a specific framework or service, explain how it is implemented and what is required for it to function. Additionally, if your project follows an architectural pattern, such as event-driven or microservice architecture, provide a thorough explanation of how it is applied and integrated into the project.
 
-- The backend of our application will deal with the logic related to the server, storing the data given, and the functionality of the application usually knowwn as the brain of the application and like a brain it connects with other systems to work or send requests for vital information like payment, infrastructure of the app and security. The security within the backend ensures that all functions are protected and that nothing can damage the system from outside attacks.
+- The backend of our application will deal with the logic related to the server, storing the data given, and the functionality of the application usually knowwn as the brain of the application and like a brain it connects with other systems to work or send requests for vital information like payment, infrastructure of the app and security. The security within the backend ensures that all functions are protected and that nothing can damage the system from outside attacks. The backend will be where the main points of our AI is stored, we will be using FastAPI w/ ednpoints to make connection extremely fast betweeen the front and backends.
 
 - The reverse proxy also has a system of security policies it follows while completing its main task of being the gateway that deals with client requests ultimatley prioritized for the increase of performance and balancing loads better. The crucial impact the reverse proxy will have is that during the event of a server crash it will detect the issue and reroute the traffic to capable servers while the other is down.
 
@@ -35,6 +37,11 @@ Following the diagram, provide an in-depth explanation of each component in indi
 - We are using python as our main language for our backend due to the reliability of the language while offering multiple features like multiplatform capabilites allowing for all users to get the app no matter the device they own, The simple syntax interaction where if an error occurs we will be able to quickly see the issue and repair it, the extensive libraries that we can use to make the application more compatable with other systems. As well as the easy use of processes where if we need to we can limit users interactions, have a shutdown for some servers while still allowing crucial servers to run, and automations of processes to help increase productivity and decrease the time for a user to get the response they need.
 
 - finally the other required languages that are used for application development like HTML for the actual interface, We will also use TSX or typescript execute for active application alterations needed like a command line interface to run scripts needed, the use of TSX will be vital during the finals steps of our application to help with readability and maintenance of the application's systems to ensure things are working and allowing for possible debugging without possibly changing crucial code that could break the entirety of the application.
+
+- Frontend: REACT tsx, Html
+- Backend: JS, Python
+- Database: SQL (undecided which one yet)
+- Hosting: AWS Most Likely (Still undecided which one specifically yet)
 
 
 3.3 Software Solution
