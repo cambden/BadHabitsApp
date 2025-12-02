@@ -12,7 +12,6 @@ Sprint 3 – Continue Development of App<br>
 Milestone 2 – Finalization of App<br>
 Testing – Test App Making sure Everything Runs Perfect<br>
 Milestone 3 – Completion and Presentation of App<br>
-<img width="712" height="271" alt="image" src="https://github.com/user-attachments/assets/42925009-f803-487b-8b73-f1cd908d13d9" />
 <br>
 For API Development it will be us researching for the most part for the implementation of it in our free time; The API will really speedup our speed between servers on the app giving a better user optimization experience, it will also be very useful for reccomending items to help quit habits in the 'Cart' based on the habit you are trying to quit.
 <br>
