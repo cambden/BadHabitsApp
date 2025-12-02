@@ -23,6 +23,9 @@ Overall, for our roadmap everything seems very possible since it it just getting
 Suggested Word Count: 150-250 words
 Outline the testing considerations for your plan next term. Will you include automated unit testing, user testing, performance testing, or security testing? Specify 2-3 tests that will serve as checkpoints for your milestones, ensuring they align with your acceptance criteria.
 
+- The testing for our project will be fairly simple, yet it will ensure all functions and requirements are working properly. There will not be an automated unit test, as automating testing while the project is running would be a waste of CPU power and would not be needed. Instead, we will manually test the code, with a team member in charge of testing all project functions. Regarding user testing, there will be user testing, and we plan to find a random person who would like to use it at school. The user test will be a week long, and they will give a review. For performance testing, we will first do speed and storage tests on the backend and the front end then manual testing we will do. Regarding security testing, there will not be heavy testing, just authentication.
+
+
 4.3 Foreseeable Risks
 Suggested Word Count: 150-250 words
 Create sections that address risks your project may encounter. In reality, many risks are only discovered as they arise. This exercise is about thinking ahead to anticipate and minimize them.
