@@ -31,9 +31,11 @@ Detail potential risks and mitigation strategies for the following categories:
 
 4.3.1 Technical Risks
 Are there any skill gaps in your team that could affect the timeline? Is your chosen technology stack unproven or risky, and do you have a backup option?
+- The only issue is that non of the members have made an application before so it is new to all of us, besides the lack of experence we are very confident that all the planned goals will be met.
 
 4.3.2 Resource Risks
 Do you have dependencies on acquiring licenses, materials, or funds? Are there concerns about losing team members or ensuring cross-functional coverage?
+- No we luckily have to work for grade so we are "pushed" to always work together and will not have any loss of members, for our funds the only big financial impact is having a live server and app rights to ensure our product is secure, active, and protected. Due to our project being more on the digital side we can run everything off of a single device but for further implementation and expansion of the product we would need dedicated servers to run the code that allows the app services to stay available at all times.
 
 4.3.3 External Dependencies
 If your project depends on certain frameworks, how will you handle version updates or unexpected changes? Are there any integrations that rely on other teams or external parties?
