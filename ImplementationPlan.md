@@ -42,3 +42,4 @@ Do you have dependencies on acquiring licenses, materials, or funds? Are there c
 
 4.3.3 External Dependencies
 If your project depends on certain frameworks, how will you handle version updates or unexpected changes? Are there any integrations that rely on other teams or external parties?
+- we are using an AI source to get fast results so the only issues that comes with the use of AI is if they update the AI model which will cause dependency issues. The simple sulution would just be to update the AI model on our end but if we do not detect the dependency fast enough it could cause reliability issues and possibly do alot of harm for the user end by giving the wrong information.
