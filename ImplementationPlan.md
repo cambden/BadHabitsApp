@@ -3,6 +3,23 @@
 Suggested Word Count: 150-250 words
 Draft a rough timeline for your delivery plan for the next term. Identify 2-3 key milestones, such as completing API development, and briefly state the acceptance criteria for each milestone. Where possible, link specific epics or user stories from your backlog to each milestone.
 
+<img width="1068" height="713" alt="image" src="https://github.com/user-attachments/assets/ee5c234a-7f6b-4f30-8f94-ec048175768b" />
+
+Sprint 1 – Initial Thought Processing / Brainstorming<br>
+Sprint 2 – Work on Initial Coding to Create a Rough Idea<br>
+Milestone 1 – Rough Idea of a Working Habit Tracking App<br>
+Sprint 3 – Continue Development of App<br>
+Milestone 2 – Finalization of App<br>
+Testing – Test App Making sure Everything Runs Perfect<br>
+Milestone 3 – Completion and Presentation of App<br>
+<img width="712" height="271" alt="image" src="https://github.com/user-attachments/assets/42925009-f803-487b-8b73-f1cd908d13d9" />
+<br>
+For API Development it will be us researching for the most part for the implementation of it in our free time; The API will really speedup our speed between servers on the app giving a better user optimization experience, it will also be very useful for reccomending items to help quit habits in the 'Cart' based on the habit you are trying to quit.
+<br>
+Overall, for our roadmap everything seems very possible since it it just getting the app done essientially, all these extra task will be long-term goals such as the cart, leaderboard, and further on.
+
+
+
 4.2 Testing
 Suggested Word Count: 150-250 words
 Outline the testing considerations for your plan next term. Will you include automated unit testing, user testing, performance testing, or security testing? Specify 2-3 tests that will serve as checkpoints for your milestones, ensuring they align with your acceptance criteria.
