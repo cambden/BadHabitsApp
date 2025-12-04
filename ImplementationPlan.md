@@ -32,6 +32,8 @@ Create sections that address risks your project may encounter. In reality, many 
 
 Detail potential risks and mitigation strategies for the following categories:
 
+With the creation of our application we need to worry about the possible security issues that come with the sensitive information like one’s name, friends and personal information like and the use of substances and other bad habits someone could dislike. We need to ensure that users information will be secured, confidential, and won’t be accessed through other users or even possible infiltrators. Another possible risk would be data storage as we want to have the information saved for each user and each login be unique to ensure privacy. Overall, our main concern with application and user security is authentication and confidentiality on the app. While taking authentication into account, we want to possibly make a two factor authentication with the users email address or their phone number at the user’s discretion. While taking confidentiality and privacy into account, we will possibly implement a sandbox version of AI for better confidentiality assurance and we will not use the users information unless we are authorized to. 
+
 4.3.1 Technical Risks
 Are there any skill gaps in your team that could affect the timeline? Is your chosen technology stack unproven or risky, and do you have a backup option?
 - The only issue is that non of the members have made an application before so it is new to all of us, besides the lack of experence we are very confident that all the planned goals will be met.
