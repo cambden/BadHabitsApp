@@ -1,6 +1,6 @@
 # Bad Habits App
 Jeffery Cheeseman, Cambden Hadley, James Jeffers<br>
-[Team Name]<br>
+Team Habit Breaker<br>
 Department of Computer and Information Systems, Virginia Military Institute<br>
 CIS-480 Pre-Capstone - Fall 2025<br>
 12/09/2025<br>
