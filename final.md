@@ -1,9 +1,9 @@
 # Bad Habits App
-Jeffery Cheeseman, Cambden Hadley, James Jeffers
-[Team Name]
-Department of Computer and Information Systems, Virginia Military Institute
-CIS-480 Pre-Capstone - Fall 2025
-12/09/2025
+Jeffery Cheeseman, Cambden Hadley, James Jeffers<br>
+[Team Name]<br>
+Department of Computer and Information Systems, Virginia Military Institute<br>
+CIS-480 Pre-Capstone - Fall 2025<br>
+12/09/2025<br>
 
 ## 1.0 Proposal
 ### 1.1 Concept Statement
