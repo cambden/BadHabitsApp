@@ -122,14 +122,14 @@ Milestone 3 – Completion and Presentation of App (By due date in late April - 
 - Performance Testing: For performance testing, we will first do speed and storage tests on the backend and the front end, and then manual testing. Regarding security testing, there will not be heavy testing, just authentication.<br>
 
 ### 4.3 Foreseeable Risks
-[provide details]
+With the creation of our application we need to worry about the possible security issues that come with the sensitive information like one’s name, friends and personal information like and the use of substances and other bad habits someone could dislike. We need to ensure that users information will be secured, confidential, and won’t be accessed through other users or even possible infiltrators. Another possible risk would be data storage as we want to have the information saved for each user and each login be unique to ensure privacy. Overall, our main concern with application and user security is authentication and confidentiality on the app. While taking authentication into account, we want to possibly make a two factor authentication with the users email address or their phone number at the user’s discretion. While taking confidentiality and privacy into account, we will possibly implement a sandbox version of AI for better confidentiality assurance and we will not use the users information unless we are authorized to.
 
 ### 4.3.1 Technical Risks
-[provide details]
+The only issue is that non of the members have made an application before so it is new to all of us, besides the lack of experence we are very confident that all the planned goals will be met.
 
 ### 4.3.2 Resource Risks
-[provide details]
+None risk on the team side, we luckily have to work for grade so we are "pushed" to always work together and will not have any loss of members, for our funds the only big financial impact is having a live server and app rights to ensure our product is secure, active, and protected. Due to our project being more on the digital side we can run everything off of a single device but for further implementation and expansion of the product we would need dedicated servers to run the code that allows the app services to stay available at all times.
 
 ### 4.3.3 External Dependencies
-[provide details]
+We are using an AI source to get fast results so the only issues that comes with the use of AI is if they update the AI model which will cause dependency issues. The simple sulution would just be to update the AI model on our end but if we do not detect the dependency fast enough it could cause reliability issues and possibly do alot of harm for the user end by giving the wrong information.
 
