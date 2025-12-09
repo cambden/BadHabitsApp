@@ -84,22 +84,36 @@ Our project as mentioned above will be a mobile app. There are actually mobile p
 For our architecture approach we plan to use a Client-Server Architechture.<br>
 <br>
 Client(Mobile App)<br>
-1. Cross-Platform using REACT as mentioned previously<br>
-2.Local Storage for offline access(SQLite)<br>
+<br>
+1.Cross-Platform using REACT w/ HTML as mentioned previously<br>
+2.Database of local storage for offline access(SQLite)<br>
 3.POSSIBLY...a sync layer to communicate with backend(REST API)<br>
 <br>
 Backend(Cloud)<br>
 <br>
-1. Python(FastAPI)...or GO<br>
+1. Python(FastAPI)<br>
 2. API Gateway + Authentication<br>
 3. Data Processing for habbit patterns<br>
 
 ### 3.3 Software Solution
-[provide details]
+This Software solves the problem of:<br>
+<br>
+People always are eager to break bad habits but..<br>
+- They lack consistent training<br>
+- They don't see progress clearly<br>
+- They often give up without support or insights
 
 ### 4.0 Implementation Plan
 ### 4.1 Delivery Roadmap
-[provide details]
+Sprint 1 – Initial Thought Processing / Brainstorming (Feb 14th)<br>
+Sprint 2 – Work on Initial Coding to Create a Rough Idea (Feb 28th)<br>
+Milestone 1 – Rough Idea of a Working Habit Tracking App (March 7th)<br>
+Sprint 3 – Continue Development of App (March 21st)<br>
+Milestone 2 – Finalization of App (April 4th)<br>
+Testing – Test App Making sure Everything Runs Perfect (April 11th)<br>
+Milestone 3 – Completion and Presentation of App (By due date in late April - early May)<br>
+
+(Completed by set dates)
 
 ### 4.2 Testing
 [provide details]
