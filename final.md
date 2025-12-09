@@ -7,14 +7,7 @@ CIS-480 Pre-Capstone - Fall 2025<br>
 
 ## 1.0 Proposal
 ### 1.1 Concept Statement
-As a registered user, I want to quit an addiction using TheHabitTracker so that I can live an improved and healthier life. 
-When I feel like relapsing on an addiction I am trying to quit, I can click a panic button, which can call a trusted person I know, or receive an AI-generated Motivational text that keeps me from relapsing. 
-As a registered user, I will have access to how long I have kept my good habits, so that I can use it as motivation to not fall back into bad habits. 
-When I add a bad habit I want to quit, like quitting nicotine, TheHabitTracker will give me a questionnaire on what form of nicotine I've been using, how long, and why. 
-Then, it will use AI queries to give me better alternatives to the products, and tips to help me quit depending on how long I have been using them and why I've been using that product. 
-As a registered user, I want to have videos of other people who have maintained similar habits to me, so that I understand that I am not alone in this struggle. 
-As a registered user, I want to have a reward of some kind when I've successfully maintained a good habit for a certain time limit so that there is more of a reward to maintaining good habits.
-
+Our app guides users on a personal journey toward self-improvement, transforming harmful habits into positive change through mindful tracking, meaningful insights, and consistent support
 ### 1.2 Context
 Essientially we are looking to create a app that helps you quit bad habits and tracks your progress with a streak like duolingo. With this app we are ideally hoping to include
 a cart system that will give you reccomended purchases that help you quit. For example, if your are trying to quit Zyns nicotine then the app can reccomend you mints or gum
@@ -37,6 +30,7 @@ habbits they are hoping to quit. Through this app they will be able to share a c
 people will be able to communicate on products or other things that were able to help them quit that the Cart might not be able to mention.
 <br>
 <br>
+<br>
 Overall, this app should be helping people quit and track their progress quitting while motivating and helping them along this journey.
 
 ### 2.0 Requirements and User Stories
@@ -49,30 +43,42 @@ For the required functionality, our project at its basics must be able to:<br>
 5. Have the app visibly and pleasing to use for user. <br>
 
 ### 2.2 User Stories
-[provide details]
+As a registered user, I want to quit an addiction using TheHabitTracker so that I can live an improved and healthier life. When I feel like relapsing on an addiction I am trying to quit, I can click a panic button, which can call a trusted person I know, or receive an AI-generated Motivational text that keeps me from relapsing. As a registered user, I will have access to how long I have kept my good habits, so that I can use it as motivation to not fall back into bad habits. When I add a bad habit I want to quit, like quitting nicotine, TheHabitTracker will give me a questionnaire on what form of nicotine I've been using, how long, and why. Then, it will use AI queries to give me better alternatives to the products, and tips to help me quit depending on how long I have been using them and why I've been using that product. As a registered user, I want to have videos of other people who have maintained similar habits to me, so that I understand that I am not alone in this struggle. As a registered user, I want to have a reward of some kind when I've successfully maintained a good habit for a certain time limit so that there is more of a reward to maintaining good habits.
 
 ### 2.3 User Personas
-[provide details]
+Alex, 36, bachelor’s in chemistry, chemical engineer, born and raised in Massachusetts, spent 4 years at MIT graduated with a 3.8 GPA, 10 years of experience with chemical engineering, multiple certifications like the following PE, ASQ, CCE, EHS. Need an outlet to stop me from using nicotine products to deal with stress during and after work hours. Nicotine has taken time from my personal life through distractions with addiction.
+<br>
+Ronald, 55, master’s in business, Finance manager for USAA bank position at Richmond VA, lived in Fredericksburg until 1994, Studied at the University of Richmond. Been working At USAA for the past 12 years. I struggle with overeating, and it has affected my work ethic because I always feel unmotivated due to my weight.
+<br>
+Tiffany, 42, bachelor’s in biology, CVS pharmacy Technician, worked at CVS for the past 7 years, I have constant memory and work-related issues due to my lack of sleep, I cant get tired enough during the day and lay awake through most nights.
 
 ### 2.4 Non-functional Requirements
 #### 2.4.1 Security
-[provide details]
+We plan to inplement a security system with multiple factors like authentification to ensure only the allowed users are allowed to see the what the habits the user has entered the progress made and other users who are on the contact/authorized personel list to edit or view data. Some methods of security we plan to use includes two factor authentification for every login, as well as a password protected section to view very personal information. For GDPR and HIPAA, HIPAA wont apply due to the lack of medical information being used within the application and it all being purely interactable, but GDPR will play into effect for our oversea users as we will only store data provided to us and this data will be stored and only accessible for the users and noone else ensuring limited access to data and an increase to overall privacy.
 
 #### 2.4.2 Performance
-[provide details]
+Performance should be very fast since this is a mobile app and should not contain as much code as many other bigger projects would. To make performance even faster we plan to implement GeminiAI to help with our 
+Motivational Quote system, our Chatbot, and mainly our Streak System.
 
 #### 2.4.3 Availability
-[provide details]
+We want this app to be free to everyone; This app is designed to help you quit those bad habits and no one should need to pay to quit bad habits. Later on the line other features may be added to have in-app purchases for maybe no adds or something but other than that everyone should be able to enjoy our app.
 
 #### 2.4.4 Reliability
-[provide details]
+Our app will be very reliable with reverse proxy being done to have a constant server and fallback options up. The only time the app shall be down is for scheduled rolling updates that 
+will occur when there are the least amount of users on the app (2-5AM) most likeley.
 
 #### 2.4.5 Ethics and Sustainability
-[provide details]
+There will be no bias in any of the algorithms considering this app is strictly to help people. User consent will not be required since it is completely optional for the user to submit their infor for help or not. There should be no data really needing to be kept, this app should be sufficient just via user input.
 
 ### 3.0 Technical Specifications and Design
 ### 3.1 Design
-[provide details]
+Our main core design prinicple will be:<br>
+
+Balance: Using balance we will be focusing on making the app visually apealing with everything perfectly spaced out and align. This will give the user mushc more enjoyment the app rather than it just being an 'eye-sore'. With balance we also allow the user to navigate much easier allowing them to switch between their differnt 'tabs' and 'redirection' screens. With balance we can bring in the other subcategories such as allignment and proportion. These will mainly be done in the css style and if anything is directly needed only once for that single line then it will be 'in-line' styling
+<br>
+This core principle will as mentioned before allow the user to naigate the app much easier. This leads to a greater rating and more time spent on the app which can then lead to sponors and so on. If sponsors are able to be obtained this will give us the oppurtunity to make drastic changes to the app in security enhancements and better UI upgrades.
+<br>
+Our project as mentioned above will be a mobile app. There are actually mobile programming applications that allow this to be done much easier than a normal vscode full- stack applicaiton.
 
 ### 3.2 Architecture Approach
 [provide details]
