@@ -81,7 +81,18 @@ This core principle will as mentioned before allow the user to naigate the app m
 Our project as mentioned above will be a mobile app. There are actually mobile programming applications that allow this to be done much easier than a normal vscode full- stack applicaiton.
 
 ### 3.2 Architecture Approach
-[provide details]
+For our architecture approach we plan to use a Client-Server Architechture.<br>
+<br>
+Client(Mobile App)<br>
+1. Cross-Platform using REACT as mentioned previously<br>
+2.Local Storage for offline access(SQLite)<br>
+3.POSSIBLY...a sync layer to communicate with backend(REST API)<br>
+<br>
+Backend(Cloud)<br>
+<br>
+1. Python(FastAPI)...or GO<br>
+2. API Gateway + Authentication<br>
+3. Data Processing for habbit patterns<br>
 
 ### 3.3 Software Solution
 [provide details]
