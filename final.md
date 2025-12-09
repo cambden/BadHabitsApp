@@ -36,11 +36,16 @@ The expected outcome of the implementation for our app is, to have an app that c
 habbits they are hoping to quit. Through this app they will be able to share a common goal of hoping to quit; With the Social Support System we are hoping to implement,
 people will be able to communicate on products or other things that were able to help them quit that the Cart might not be able to mention.
 <br>
+<br>
 Overall, this app should be helping people quit and track their progress quitting while motivating and helping them along this journey.
 
 ### 2.0 Requirements and User Stories
 ### 2.1 Required Functionality
-[provide details]
+For the required functionality, our project at its basics must be able to:<br>
+1. Have a add feature that adds your habit you wish to quit<br>
+2. Track this habit and your daily progress towards quitting<br>
+3. Have an AI chatbot that will reccomend products that direct you to Amazon to buy them<br>
+4. Send you daily motivational quotes to keep you in high spirit while quitting.<br>
 
 ### 2.2 User Stories
 [provide details]
