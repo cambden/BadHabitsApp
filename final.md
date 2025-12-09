@@ -16,13 +16,27 @@ As a registered user, I want to have videos of other people who have maintained 
 As a registered user, I want to have a reward of some kind when I've successfully maintained a good habit for a certain time limit so that there is more of a reward to maintaining good habits.
 
 ### 1.2 Context
-
+Essientially we are looking to create a app that helps you quit bad habits and tracks your progress with a streak like duolingo. With this app we are ideally hoping to include
+a cart system that will give you reccomended purchases that help you quit. For example, if your are trying to quit Zyns nicotine then the app can reccomend you mints or gum
+to buy. <br>
+We want to have a frontend that is done using: HTML, REACT, and JSX<br>
+We want to have a backend that is done using: Python, and an API such as FastAPI<br>
+Most of the challenge with creating this app should mainly come from the Sprint where we do our Cart and the Sprint where we do the streak system.
 
 ### 1.3 Required Capabilities
-[provide details]
+For our required capabilities we are looking for our app to include (ranked top to bottom from realisim): <br>
+1. Motivational Quote Notifications<br>
+2. Social Support System<br>
+3. Streak System<br>
+4. Shopping Cart<br>
+5. Integration with Other Apps<br>
 
 ### 1.4 Expected Outcome of Implementation
-[provide details]
+The expected outcome of the implementation for our app is, to have an app that can discretely or openly bring together a group of people with similar 
+habbits they are hoping to quit. Through this app they will be able to share a common goal of hoping to quit; With the Social Support System we are hoping to implement,
+people will be able to communicate on products or other things that were able to help them quit that the Cart might not be able to mention.
+<br>
+Overall, this app should be helping people quit and track their progress quitting while motivating and helping them along this journey.
 
 ### 2.0 Requirements and User Stories
 ### 2.1 Required Functionality
