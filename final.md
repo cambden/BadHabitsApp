@@ -46,6 +46,7 @@ For the required functionality, our project at its basics must be able to:<br>
 2. Track this habit and your daily progress towards quitting<br>
 3. Have an AI chatbot that will reccomend products that direct you to Amazon to buy them<br>
 4. Send you daily motivational quotes to keep you in high spirit while quitting.<br>
+5. Have the app visibly and pleasing to use for user. <br>
 
 ### 2.2 User Stories
 [provide details]
