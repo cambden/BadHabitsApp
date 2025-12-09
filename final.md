@@ -91,9 +91,9 @@ Client(Mobile App)<br>
 <br>
 Backend(Cloud)<br>
 <br>
-1. Python(FastAPI)<br>
-2. API Gateway + Authentication<br>
-3. Data Processing for habbit patterns<br>
+1.Python(FastAPI)<br>
+2.API Gateway + Authentication<br>
+3.Data Processing for habbit patterns<br>
 
 ### 3.3 Software Solution
 This Software solves the problem of:<br>
@@ -116,7 +116,10 @@ Milestone 3 – Completion and Presentation of App (By due date in late April - 
 (Completed by set dates)
 
 ### 4.2 Testing
-[provide details]
+*The testing for our project will be fairly simple, yet it will ensure all functions and requirements are working properly.
+*Automated unit testing: There will not be an automated unit test, as automating testing while the project is running would be a waste of CPU power and would not be needed. Instead, we will manually test the code, with a team member in charge of testing all project functions.
+*User Testing: Regarding user testing, there will be user testing, and we plan to find a random person who would like to use it at school. The user test will be a week long, and they will give a review.
+*Performance Testing: For performance testing, we will first do speed and storage tests on the backend and the front end, and then manual testing. Regarding security testing, there will not be heavy testing, just authentication.
 
 ### 4.3 Foreseeable Risks
 [provide details]
