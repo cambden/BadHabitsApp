@@ -116,10 +116,10 @@ Milestone 3 – Completion and Presentation of App (By due date in late April - 
 (Completed by set dates)
 
 ### 4.2 Testing
-*The testing for our project will be fairly simple, yet it will ensure all functions and requirements are working properly.
-*Automated unit testing: There will not be an automated unit test, as automating testing while the project is running would be a waste of CPU power and would not be needed. Instead, we will manually test the code, with a team member in charge of testing all project functions.
-*User Testing: Regarding user testing, there will be user testing, and we plan to find a random person who would like to use it at school. The user test will be a week long, and they will give a review.
-*Performance Testing: For performance testing, we will first do speed and storage tests on the backend and the front end, and then manual testing. Regarding security testing, there will not be heavy testing, just authentication.
+- The testing for our project will be fairly simple, yet it will ensure all functions and requirements are working properly.<br>
+- Automated unit testing: There will not be an automated unit test, as automating testing while the project is running would be a waste of CPU power and would not be needed. Instead, we will manually test the code, with a team member in charge of testing all project functions.<br>
+- User Testing: Regarding user testing, there will be user testing, and we plan to find a random person who would like to use it at school. The user test will be a week long, and they will give a review.<br>
+- Performance Testing: For performance testing, we will first do speed and storage tests on the backend and the front end, and then manual testing. Regarding security testing, there will not be heavy testing, just authentication.<br>
 
 ### 4.3 Foreseeable Risks
 [provide details]
